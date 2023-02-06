@@ -33,3 +33,13 @@ Data Manipulation in Shell Script.
 - -b for switch Replace as in task 2 script2
 - -r to delete Insert a # at the beginning of the line to annotate it
 - If nothing specified, print an error message / instruction and exit
+
+### Usage:
+1) Open terminal and cd to dev_ops_bash dir
+2) for task-1, just run the script1.sh with following command: ./script1.sh
+3) for task-2 and 3, I developed a helper. See the help by following commands:
+        ./script2.sh -h (for task-2)
+        ./script3.sh -h (for task-3)
+
+If you read the help, you will understand how to use these two commands with other options and mandatory arguments.
+
